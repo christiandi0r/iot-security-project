@@ -27,3 +27,10 @@ Mosquitto Broker
        | MQTT
        v
 Subscriber
+
+## Contributors
+
+- **Christian Ruelas** — IoT/MQTT System & Integration
+- **Damaris Sanchez Meraz** — Attack Simulation
+- **Victoria Hofmeister** — Intrusion Detection
+- **Cirena Arabit** — Network Forensics & Packet Analysis
