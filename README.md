@@ -27,7 +27,7 @@ Mosquitto Broker
        | MQTT
        v
 Subscriber
-
+```
 ## Contributors
 
 - **Christian Ruelas** — IoT/MQTT System & Integration
