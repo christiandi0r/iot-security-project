@@ -8,7 +8,7 @@ class SensorSubscriber
 {
     public:
 
-        SensorSubscriber() : _brokerAddress{"tcp://localhost:1883"}, 
+        SensorSubscriber() : _brokerAddress{"tcp://134.71.199.228:1883"}, 
                             _temperatureTopic{"iot/sensor1/temperature"},
                             _humidityTopic{"iot/sensor1/humidity"},
                             _clientID{"sensor1_subscriber"},
